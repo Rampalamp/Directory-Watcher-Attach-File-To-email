@@ -1,0 +1,12 @@
+C:\Users\matthew.rampen\Documents\Visual Studio 2012\Projects\VoicemailToEmail\VoicemailToEmail\bin\Debug\VoicemailToEmail.exe.config
+C:\Users\matthew.rampen\Documents\Visual Studio 2012\Projects\VoicemailToEmail\VoicemailToEmail\bin\Debug\VoicemailToEmail.exe
+C:\Users\matthew.rampen\Documents\Visual Studio 2012\Projects\VoicemailToEmail\VoicemailToEmail\bin\Debug\VoicemailToEmail.pdb
+C:\Users\matthew.rampen\Documents\Visual Studio 2012\Projects\VoicemailToEmail\VoicemailToEmail\bin\Debug\Microsoft.CSharp.dll
+C:\Users\matthew.rampen\Documents\Visual Studio 2012\Projects\VoicemailToEmail\VoicemailToEmail\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\matthew.rampen\Documents\Visual Studio 2012\Projects\VoicemailToEmail\VoicemailToEmail\bin\Debug\System.Data.dll
+C:\Users\matthew.rampen\Documents\Visual Studio 2012\Projects\VoicemailToEmail\VoicemailToEmail\bin\Debug\System.dll
+C:\Users\matthew.rampen\Documents\Visual Studio 2012\Projects\VoicemailToEmail\VoicemailToEmail\bin\Debug\System.Xml.dll
+C:\Users\matthew.rampen\Documents\Visual Studio 2012\Projects\VoicemailToEmail\VoicemailToEmail\bin\Debug\System.Xml.Linq.dll
+C:\Users\matthew.rampen\Documents\Visual Studio 2012\Projects\VoicemailToEmail\VoicemailToEmail\obj\Debug\VoicemailToEmail.csprojResolveAssemblyReference.cache
+C:\Users\matthew.rampen\Documents\Visual Studio 2012\Projects\VoicemailToEmail\VoicemailToEmail\obj\Debug\VoicemailToEmail.exe
+C:\Users\matthew.rampen\Documents\Visual Studio 2012\Projects\VoicemailToEmail\VoicemailToEmail\obj\Debug\VoicemailToEmail.pdb
